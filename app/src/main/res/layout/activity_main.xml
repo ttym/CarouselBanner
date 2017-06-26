@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f8d8d8"
+    tools:context="tk.ttym.carouselbanner.MainActivity">
+
+    <tk.ttym.carouselbanner.FlyBanner
+        android:id="@+id/fly_banner"
+        android:layout_width="wrap_content"
+        android:layout_height="131dp"
+        android:minHeight="131dp"/>
+
+</android.support.constraint.ConstraintLayout>

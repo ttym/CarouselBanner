@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="home_ad_banner_height">120dp</dimen>
+    <dimen name="home_header_margin_left_and_right">13dp</dimen>
+    <dimen name="home_header_margin_top">3dp</dimen>
+    <dimen name="home_header_corner">6dp</dimen>
+    <dimen name="home_header_point_size">8dp</dimen>
+
+</resources>
